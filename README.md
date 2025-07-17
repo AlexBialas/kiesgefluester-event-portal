@@ -66,9 +66,11 @@ Coming soon – once the UI is completed.
 ## 👩‍💻 Author
 
 Developed by Aleksandra Bialas
+
 Fullstack Web Developer (MERN + TypeScript) – available for freelance or contract work.
 
 📬 Contact: abialas.fullstack@gmail.com
+
 🌐 Portfolio: github.com/AlexBialas
 
 ## 📜 License
