@@ -36,6 +36,7 @@ This fullstack application was commissioned by the organizers of a real music ev
 ### 1. Clone the repository
 
 git clone https://github.com/AlexBialas/kiesgefluester-event-portal.git
+
 cd kiesgefluester-event-portal
 
 ### 2. Install dependencies
