@@ -46,7 +46,7 @@ cd client
 npm install
 
 # Backend
-cd ../server
+cd server
 npm install
 
 ### 3. Run development servers
