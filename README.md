@@ -41,21 +41,21 @@ cd kiesgefluester-event-portal
 
 ### 2. Install dependencies
 
-# Frontend
+#### Frontend
 cd client
 npm install
 
-# Backend
+#### Backend
 cd server
 npm install
 
 ### 3. Run development servers
 
-# Start frontend
+#### Start frontend
 cd client
 npm run dev
 
-# Start backend
+#### Start backend
 cd ../server
 npm run dev
 
