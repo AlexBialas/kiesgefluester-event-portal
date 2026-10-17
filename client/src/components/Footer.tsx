@@ -12,28 +12,7 @@ const Footer = () => {
           </p>
         </div>
 
-        {/* Social Media Icons */}
-        <div className="flex space-x-6 text-2xl">
-          <a
-            href="https://www.instagram.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-pink-400 transition"
-          >
-            <FaInstagram />
-          </a>
-          <a
-            href="https://www.facebook.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-blue-400 transition"
-          >
-            <FaFacebookF />
-          </a>
-        </div>
-      </div>
-    </footer>
-  );
-};
 
+            rel="noopener 
 export default Footer;
+ddddd

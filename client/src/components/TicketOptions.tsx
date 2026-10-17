@@ -60,41 +60,7 @@ const TicketOptions = () => {
               className="bg-gray-700 px-3 py-1 rounded"
             >
               +
-            </button>
-          </div>
-        </div>
-      ))}
-
-      <button
-        onClick={handleCheckout}
+            </bukout}
         className="w-full mt-6 bg-pink-600 hover:bg-pink-500 transition text-white font-semibold py-3 rounded-full"
       >
         Jetzt bezahlen mit Stripe
-      </button>
-    </section>
-  );
-};
-
-export default TicketOptions;
-ssss;
-dddd;
-dddd;
-ssss;
-ddd;
-sss;
-ssss;
-ddd;
-dddd;
-sss;
-sssssss;
-ddd;
-ssss;
-sss;
-dddd;
-sss;
-www;
-ssss;
-sssss;
-ssss;
-ssss;
-ssss;
