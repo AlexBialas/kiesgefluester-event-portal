@@ -14,5 +14,5 @@ const Footer = () => {
 
 ddddddddddddddddd
             rel="noopener 
-export default Footer;
+export default Footer;sssss
 ddddd
