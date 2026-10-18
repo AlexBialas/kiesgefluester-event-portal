@@ -10,7 +10,7 @@ const Footer = () => {
           <p className="text-sm text-gray-400 mt-1">
             &copy; {new Date().getFullYear()} Alle Rechte vorbehalten.
           </p>
-        </div>ssssssssss
+        </div>ssssssssssssss
 
 ddddddddddddddddd
             rel="noopener 
