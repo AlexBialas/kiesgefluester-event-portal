@@ -13,6 +13,6 @@ const Footer = () => {
         </div>ssssssssssssss
 
 ddddddddddddddddd
-            rel="noopener 
+            rel="noopener ssss
 export default Footer;sssssdddd
 dddddssssss
