@@ -11,7 +11,7 @@ const Footer = () => {
             &copy; {new Date().getFullYear()} Alle Rechte vorbehalten.
           </p>
         </div>ssssssssssssss
-
+sssss
 ddddddddddddddddd
             rel="noopener ssss
 export default Footer;sssssdddd
